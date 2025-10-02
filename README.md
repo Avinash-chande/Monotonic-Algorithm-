@@ -33,4 +33,4 @@ The main focus is on solving problems like:
 
 ---
 
-⭐ If you find this helpful, consider giving the repo a star!
+
