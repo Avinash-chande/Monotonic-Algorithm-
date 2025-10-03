@@ -32,6 +32,6 @@ The main focus is on solving problems like:
 - Range queries in arrays  
 
 ---
-⭐ If you find this helpful, consider giving the repo a star!
+
 
 
