@@ -10,13 +10,7 @@ The main focus is on solving problems like:
 - **NGE** → Next Greater Element  
 - **PGE** → Previous Greater Element  
 
-## Features
 
-- Efficient **O(n)** solutions using monotonic stacks.
-- Implementations for both left and right variations:
-  - Next Smaller Element (Left / Right)
-  - Next Greater Element (Left / Right)
-- Simple, well-structured C++ programs for practice and reference.
 
 ## Repository Details
 
