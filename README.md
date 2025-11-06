@@ -33,7 +33,5 @@ The main focus is on solving problems like:
 - Sliding window maximum  
 - Range queries in arrays  
 
----
-⭐ If you find this helpful, consider giving the repo a star!
 
 
