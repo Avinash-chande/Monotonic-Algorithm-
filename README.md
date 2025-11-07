@@ -26,7 +26,7 @@ The main focus is on solving problems like:
 - **Use case**: Competitive programming, interview prep, and algorithm study.  
 - **Core idea**: Monotonic stacks to efficiently find nearest greater/smaller elements.
 
-## Example Applications.
+## Example Applications
 
 - Stock span problem  
 - Largest rectangle in histogram  
