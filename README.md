@@ -28,7 +28,7 @@ The main focus is on solving problems like:
 
 ## Example Applications
 
-- Stock span problem  
+- Stock span problem ,
 - Largest rectangle in histogram  
 - Sliding window maximum  
 - Range queries in arrays  
