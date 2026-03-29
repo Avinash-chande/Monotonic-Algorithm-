@@ -24,7 +24,7 @@ The main focus is on solving problems like:
 
 - **Language**: C++  
 - **Use case**: Competitive programming, interview prep, and algorithm study.  
-- **Core idea**: Monotonic stacks to efficiently find nearest greater/smaller elements.
+- **Core idea**: Monotonic stacks to efficiently find nearest greater/smaller elements
 
 ## Example Applications
 
