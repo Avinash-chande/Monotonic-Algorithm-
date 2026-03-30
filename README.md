@@ -30,6 +30,6 @@ The main focus is on solving problems like:
 
 - Stock span problem ,
 - Largest rectangle in histogram  
-- Sliding window maximum  
+- Sliding window maximum .
 - Range queries in arrays.
 
